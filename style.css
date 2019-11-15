@@ -1,0 +1,62 @@
+*{
+    font-family: 'BioRhyme', serif;
+}
+html{
+    font-size:10px;
+}
+/* home */
+#home-page{
+    background-image:linear-gradient(to bottom,#F89101, #F75B38);
+    height:100vh;
+    color:#EEF2F3 !important;
+    font-style:italic !important;
+}
+.content-footer{
+    font-size:.9rem;
+    font-weight:100;
+}
+.no-ads{
+    background:transparent;
+    border:.1rem solid rgb(216, 216, 216);
+    color:rgb(216, 216, 216);
+    padding:1.8rem 0;
+}
+.progress{
+    background:transparent !important;
+    border:1px solid white
+}
+
+/* learn */
+.card-header{
+    border-top-left-radius:2rem !important;
+    border-top-right-radius:2rem !important;
+}
+.card{
+    border-radius:2rem !important;
+}
+
+.card-content:last-child{
+    padding-bottom:23rem;
+}
+.go-back{
+    position: absolute;
+    left:5%;
+}
+.volume{
+    position: absolute;
+    left:50%;
+    bottom:5%;
+    transform:translateX(-50%);
+}
+/* test */
+
+.buttons > button{
+    margin: 0.5em 0;
+}
+.card{
+    border-radius:2rem;
+}
+/* repeat */
+.word{
+    border:1px solid grey;
+}
