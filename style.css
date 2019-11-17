@@ -59,4 +59,5 @@ html{
 /* repeat */
 .word{
     border:1px solid grey;
+    cursor:pointer;
 }
